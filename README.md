@@ -1,17 +1,4 @@
 # ML_learning
-Absolutely — and nice progress 🔥
-Since you learned cross-validation + feature engineering, here’s a clean GitHub profile README you can copy-paste.
-
-✅ GitHub Profile README (Copy-Paste)
-
-Create a repo with the same name as your GitHub username (example: rajbabupk/rajbabupk) and add this as README.md
-
-# Hi, I'm Raj 👋
-
-🚀 I’m learning Machine Learning and Generative AI, building projects step-by-step and sharing my journey publicly.
-
----
-
 ## 🎯 Current Focus
 - Machine Learning fundamentals (training, evaluation, cross-validation)
 - Feature Engineering & data preprocessing
